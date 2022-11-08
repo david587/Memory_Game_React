@@ -1,3 +1,5 @@
+![Képernyőkép 2022-11-08 212359](https://user-images.githubusercontent.com/61178364/200668245-1037815f-a170-4870-92f3-abe9edc3b044.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
